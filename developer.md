@@ -2,7 +2,7 @@
 
 Extending `html-bricks` is done through plugins.
 
-Looking for the [user documentation](https://gustavgb.github.io/html-bricks)?
+Looking for the [user documentation](https://html-bricks.github.io/)?
 
 ## Creating a plugin
 

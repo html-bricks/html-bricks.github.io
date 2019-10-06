@@ -1,6 +1,6 @@
 # Documentation
 
-Using [html-bricks](https://github.com/gustavgb/html-bricks) is very easy but allows you to customize the setup to your preferences.
+Using [html-bricks](https://github.com/html-bricks/html-bricks) is very easy but allows you to customize the setup to your preferences.
 
 The point of this project is to provide a simple way to modularize html files without building a space ship. Sometimes, all you need is a few *bricks* 🧱
 
@@ -22,7 +22,7 @@ Then in your scripts, add
 
 Optionally use `--watch` to enable file watching and live rebuilding.
 
-Alternatively, use the [template](https://github.com/gustavgb/html-bricks-template) to get started.
+Alternatively, use the [template](https://github.com/html-bricks/html-bricks-template) to get started.
 
 
 ## Setup
