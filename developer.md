@@ -67,10 +67,6 @@ A plugin that loads content from a headless CMS and replaces template tags with 
 
 A plugin that automatically translates content to other predefined locales and builds each locale under *build/{locale}/*.
 
-### PostCSS plugin
-
-A plugin that automatically transpile all CSS files to cross browser supported styling.
-
 ### Uglify plugin
 
 A plugin that uglifies the html/css/js files to reduce file size.
