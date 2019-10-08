@@ -71,10 +71,6 @@ A plugin that automatically translates content to other predefined locales and b
 
 A plugin that automatically transpile all CSS files to cross browser supported styling.
 
-### Inline css plugin
-
-A plugin that pastes all css styling inside each HTML file's head to prevent FOUC.
-
 ### Uglify plugin
 
 A plugin that uglifies the html/css/js files to reduce file size.
