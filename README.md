@@ -101,6 +101,8 @@ To enable plugins, you need to have a [configuration](#configuration) in your pr
 
 This would include the plugin `html-bricks-plugin-sass`. Make sure it is installed in your project folder.
 
-> Notice the exclusion is `html-bricks-` in the plugin declaration. This part is optional, so you can include it or not depending on your preference.
+> Notice that you can omit `html-bricks-` in the plugin declaration.
+
+Find available plugins [here](https://github.com/html-bricks?q=html-bricks-plugin).
 
 To create your own plugin, see the [developer documentation](developer).

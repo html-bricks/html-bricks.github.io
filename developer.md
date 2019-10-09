@@ -54,23 +54,3 @@ For example name your plugin `html-bricks-plugin-awesome` and import it with
   ]
 }
 ```
-
-## Plugins ideas
-
-What could you do with plugins? Here are some ideas
-
-### CMS source plugin
-
-A plugin that loads content from a headless CMS and replaces template tags with actual content.
-
-### Translation plugin
-
-A plugin that automatically translates content to other predefined locales and builds each locale under *build/{locale}/*.
-
-### Uglify plugin
-
-A plugin that uglifies the html/css/js files to reduce file size.
-
-### Babel plugin
-
-A plugin that uses Babel to transpile js files to ES5 compliant code.
